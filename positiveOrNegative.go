@@ -24,6 +24,6 @@ func main() {
 		fmt.Println("That is a negative number")
 	} else {
 		// output
-		fmt.Println("That is a positve number")
+		fmt.Println("That is a positive number")
 	}
 }
